@@ -1,5 +1,5 @@
 # Hi 👋, I'm Albin Mathew
-A software engineer focused on all things UI
+
 
 ![](https://github-profile-trophy.vercel.app/?username=albinmathew)
 
